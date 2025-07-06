@@ -3,9 +3,9 @@ declare(strict_types=1);
 
 $host = '10.10.10.71';
 $port = '5432';
-$dbname = 'eprotrack';
-$user = 'eptnevo';
-$password = 'Nevo@2022#G0r0nt4l0';
+$dbname = 'ept';
+$user = 'ept';
+$password = 'MyP4ssW0rd';
 
 try {
     $pdo = new PDO(
